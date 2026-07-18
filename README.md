@@ -110,13 +110,18 @@ Potential enhancements for future versions include:
 
 ## 📷 Preview
 
-> *(Add screenshots of your homepage here after deployment.)*
+> <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/991a5228-1f51-44f0-b88f-f8ffc832263b" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/66bd5eb1-1fd2-405e-aae4-bf634fd0c9f5" />
+> <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4a931a2c-d04c-45ff-9fd1-0dcba240bc6f" />
+> <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4a963a20-e9db-4ac8-ad12-e6cf0a616507" />
+> <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0a078c2e-442b-4408-a973-0703a1a9addb" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e10dd37a-61d8-4cfd-aa66-9a2bf7589736" />
 
 ---
 
 ## 🌐 Live Demo
 
-**Website:** *(Add your Vercel link here after deployment.)*
+**Website:**  *https://inamigos-awareness-webpage-five.vercel.app/*
 
 ---
 
